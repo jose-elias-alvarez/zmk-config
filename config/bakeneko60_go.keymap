@@ -37,11 +37,11 @@
             // ------------------------------------------------------------------------------------------
 
             bindings = <
-&kp GRAVE                &kp N1        &kp N2  &kp N3        &kp N4  &kp N5  &kp N6                     &kp N7  &kp N8  &kp N9     &kp N0         &kp MINUS      &kp EQUAL   &kp BSPC  &kp BSPC
-&kp TAB                  &kp Q         &kp W   &kp E         &kp R   &kp T   &kp Y                      &kp U   &kp I   &kp O      &kp P          &kp LBKT       &kp RBKT              &kp BSLH
-&mt LEFT_CONTROL ESCAPE  &kp A         &kp S   &kp D         &kp F   &kp G   &kp H                      &kp J   &kp K   &kp L      &kp SEMI       &kp SQT                              &kp RET
-&sk LSHFT                              &kp Z   &kp X         &kp C   &kp V   &kp B                      &kp N   &kp M   &kp COMMA  &kp DOT        &kp FSLH       &caps_word            &mo 1
-&kp LCTRL                &kp LEFT_ALT          &kp LEFT_GUI                  &fast_lt_behavior 3 SPACE                             &kp RIGHT_GUI  &kp RIGHT_ALT  &mo 1                 &kp RCTRL
+&kp GRAVE                &mt F1 NUMBER_1  &mt F2 NUMBER_2  &mt F3 NUMBER_3  &mt F4 NUMBER_4  &mt F5 NUMBER_5  &mt F6 NUMBER_6            &mt F7 NUMBER_7  &mt F8 NUMBER_8  &mt F9 NUMBER_9  &mt F10 NUMBER_0  &mt F11 MINUS  &mt F12 EQUAL  &kp BSPC  &kp BSPC
+&kp TAB                  &kp Q            &kp W            &kp E            &kp R            &kp T            &kp Y                      &kp U            &kp I            &kp O            &kp P             &kp LBKT       &kp RBKT                 &kp BSLH
+&mt LEFT_CONTROL ESCAPE  &kp A            &kp S            &kp D            &kp F            &kp G            &kp H                      &kp J            &kp K            &kp L            &kp SEMI          &kp SQT                                 &kp RET
+&sk LSHFT                                 &kp Z            &kp X            &kp C            &kp V            &kp B                      &kp N            &kp M            &kp COMMA        &kp DOT           &kp FSLH       &caps_word               &mo 1
+&kp LCTRL                &kp LEFT_ALT                      &kp LEFT_GUI                                       &fast_lt_behavior 3 SPACE                                                     &kp RIGHT_GUI     &kp RIGHT_ALT  &mo 1                    &kp RCTRL
             >;
         };
 
